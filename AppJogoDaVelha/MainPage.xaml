@@ -21,7 +21,7 @@
         </Style>
     </ContentPage.Resources>
 
-    <Grid ColumnDefinitions="*, *, *" RowDefinitions="*, *, *"
+    <Grid ColumnDefinitions="*, *, *" RowDefinitions="*, *, *, *"
           VerticalOptions="FillAndExpand"
           Padding="10">
 
